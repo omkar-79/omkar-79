@@ -1,5 +1,5 @@
 # 💫 About Me:
-A curious developer who is excited to develop projects that solve real-world  problems. Looking to contribute and work in backend and machine learning (NLP, LLM, GenAI) field.
+A curious software engineer who is excited to develop projects that solve real-world  problems. Looking to contribute and work in backend and machine learning (NLP, LLM, GenAI) field.
 
 
 ## 🌐 Socials:
